@@ -54,7 +54,7 @@ tags: [Report, MoreThanCode, practitioners, experiences, stories]
 
 ## [Bibliography](/report/bibliography)
 
-## [Appendicies](/report/appendicies)
+## [Appendicies](/report/appendices)
 - Methodology
 - Anonymity & Data Protection Policy
 - Additional Research Outputs

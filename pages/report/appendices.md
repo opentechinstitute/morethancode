@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "#MoreThanCode Appendicies"
-permalink: /report/appendicies/
+title: "#MoreThanCode Appendices"
+permalink: /report/appendices/
 feature-img: "assets/img/IMG_20170325_113030.jpg"
 hide: true
-tags: [Report, Appendicies, MoreThanCode, practitioners, experiences, stories]
+tags: [Report, Appendices, MoreThanCode, practitioners, experiences, stories]
 ---
 
 ### A. Methodology
