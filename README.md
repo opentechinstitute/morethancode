@@ -5,10 +5,10 @@ The github repository, leveraging the [Type-on-Strap](https://sylhare.github.io/
 
 ## Table of Contents
 
-1. [Report](morethancode.cc/report/)
-2. [OrgList](morethancode.cc/orglist/)
-3. [Quote Explorer](morethancode.cc/quotes/)
-4. [Job explorer](jobs.morethancode.cc)
+1. [Report](https://morethancode.cc/report/)
+2. [OrgList](https://morethancode.cc/orglist/)
+3. [Quote Explorer](https://morethancode.cc/quotes/)
+4. [Job explorer](https://jobs.morethancode.cc)
 7. [License](#license)
 
 ## About the Code
