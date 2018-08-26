@@ -19,7 +19,7 @@ _The design of tech projects must involve people from the communities they are m
 
 **Center community needs over tools.** Community needs and priorities must drive technology design and development, and technology is most useful when priorities set by those who are not technologist. _“Be humble, and respect community knowledge” (Rashmi, Director of Tech at a Civil Rights Org)._ Process and solution should be driven by the community; do not make community members token participants.
 
-**Invest in education (both formal and informal) that teaches co-design methods to more practitioners.** Support existing efforts in this space, create new ones, and push existing educational programs, institutions, and boot camps (such as those listed in our Educational Programs Spreadsheet: [http://bit.ly/t4sj-programs](http://bit.ly/t4sj-programs)) to adopt co-design perspectives and practices.
+**Invest in education (both formal and informal) that teaches co-design methods to more practitioners.** Support existing efforts in this space, create new ones, and push existing educational programs, institutions, and boot camps (such as those listed in our Educational Programs Spreadsheet: <a href="http://bit.ly/t4sj-programs">http://bit.ly/t4sj-programs</a> to adopt co-design perspectives and practices.
 
 **Create tech clinics, modeled on legal clinics.** Public interest law and legal services work are client-oriented, and lawyers doing this work constantly interact with people who need to navigate larger unequal systems. This is considered part of their legal education. Tech can learn from this model.
 
@@ -42,12 +42,92 @@ of existing Community Review Boards to review technology design projects).24
 
 #### AUDIENCE-SPECIFIC RECOMMENDATIONS
 
-| Tech Practitioner Orgs | <ul><li>Encourage tech for social justice practitioners to engage with the communities they serve on equal footing, as equal partnerships, to encourage humility, trust, mutual learning, and meaningful community engagement.</li><li>Adopt co-design and agile development methods, do usability testing, and adopt formal community accountability mechanisms like signed working agreements and community design boards.</li></ul>|
-|Other Orgs| <ul><li>Adopt co-design and agile development methods and do usability testing.</li></ul>|
-|Individual Practitioners| <ul><li>Avoid parachuting into communities, be humble and respect community knowledge, ask “who” before you attempted to “solve” this problem, and refrain from reinventing the wheel.</li><li>Learn and practice co-design methods.</li></ul>|
-|Funders|<ul><li>Require a community accountability mechanism or plan in grant proposals, similar to impact assessment.</li><li>Support formal usability testing.</li><li>Support community design boards. These aren’t focused only on UX/UI, instead they are also focused on “What are the key assets and challenges in our community? How does this project meaningfully impact our lives? Do we really need this? What are the potential benefits and harms of this project?”</li><li>Respect community articulations of their own needs.</li><li>Fund increased tech capacity in already existing PoC-led organizations.</li><li>Stop supporting projects that are not emerging from real needs of community organizations, although they sound like a cool idea.</li><li>Allocate increased dedicated resources for areas of the work that are often neglected: capacity building, maintenance, and improved usability of existing proven tech, not just pilots of new tools.</li></ul>|
-|Educators|<ul><li>Support more educational programs (both in and outside of formal higher ed, as well as boot camps) that teach co-design, critical thinking about technology, and user centered design, including in practice, not just theory. Support existing efforts in this space, create new ones, and push existing educational programs and institutions to adopt co-design perspective and practices (Judyta, Facilitator, Education Technology Collective). For example, see our list of educational initiatives, but note that just a handful teach community-led design: [http://bit.ly/t4sj-programs](http://bit.ly/t4sj-programs).</li><li>Create Tech Clinics, modeled on Legal Clinics. Public interest law, and legal services work, is client oriented and lawyers doing this work are constantly interacting with people who need to navigate larger unequal systems; it’s also part of their education. Tech can learn from this. People who are poor, are undocumented, are seeking housing, and/or have dealt with the criminal justice system, must be involved in the creation of apps and technology systems that are supposed to be for them and create tech teams, both staff and fellowships and internships, within existing legal services clinics (Heiner, Executive Director at a Legal Services Org).</li><li>Center community accountability in education programs. Lots of college programs have people “do community work” as a practicum, but without grounding or context. There are some models that try to do this better, e.g. Hampshire college’s “Holyoke bound” program, with a daylong training in the history of the city. See also MMP’s course for students in the spring term, about social justice, prior to a summer internship.</li><li>Develop strategies beyond technology deployment in schools. Deployment alone is not enough: How will it be used, what does the community need, what do community leaders, educators, and organizers have to say?</li></ul>|
-|Government|<ul><li>Adopt co-design and agile development methods, conduct formal usability testing, and support community design boards.</li><li>Develop mechanisms to include community members at all stages of the design process (scoping, ideation, prototype, iterations, etc.) rather than only in usability testing.</li><li>Governments have responsibility to advance the public interest. Find ways to shift responsibility for maintenance of successful public interest tech projects onto governments. Nonprofits should not be responsible for long-term maintenance, development, and scaling of successful public interest tech projects.</li><li>18F and USDS are seen by many as successful models at the federal level. Possibly replicate these models for municipalities. Also consider creating/supporting a shop (or network of shops) like this to support nonprofits.</li><li>Vendors bidding for municipal contracts could be required to produce community design and accountability plans.</li><li>Revise hiring practices to account for the fact that many top practitioners are self-taught and don’t have formal technology-related degrees.</li><li>Consider models to allocate some resources in government design processes for meaningful community participation, so that the whole process doesn’t just happen “in-house,” with community input limited to UI testing of the MVP. For example, can lessons from successful municipal participatory budgeting programs be applied to create municipal participatory design programs?</li>|
+<table>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_users_64764_000000.png" height="100px" display="block">
+            Tech Practitioner Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Encourage tech for social justice practitioners to engage with the communities they serve on equal footing, as equal partnerships, to encourage humility, trust, mutual learning, and meaningful community engagement.</li>
+                <li>Adopt co-design and agile development methods, do usability testing, and adopt formal community accountability mechanisms like signed working agreements and community design boards.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_group_737662_000000.png" height="100px" display="block">
+            Other Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Adopt co-design and agile development methods and do usability testing.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_individual_1284256_000000.png" height="100px" display="block">
+            Individual Practitioners
+        </td>
+        <td>
+            <ul>
+                <li>Avoid parachuting into communities, be humble and respect community knowledge, ask “who” before you attempted to “solve” this problem, and refrain from reinventing the wheel.</li>
+                <li>Learn and practice co-design methods.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_funds_939405_000000.png" height="100px" display="block">
+            Funders
+        </td>
+        <td>
+            <ul>
+                <li>Require a community accountability mechanism or plan in grant proposals, similar to impact assessment.</li>
+                <li>Support formal usability testing.</li>
+                <li>Support community design boards. These aren’t focused only on UX/UI, instead they are also focused on “What are the key assets and challenges in our community? How does this project meaningfully impact our lives? Do we really need this? What are the potential benefits and harms of this project?”</li>
+                <li>Respect community articulations of their own needs.</li>
+                <li>Fund increased tech capacity in already existing PoC-led organizations.</li>
+                <li>Stop supporting projects that are not emerging from real needs of community organizations, although they sound like a cool idea.</li>
+                <li>Allocate increased dedicated resources for areas of the work that are often neglected: capacity building, maintenance, and improved usability of existing proven tech, not just pilots of new tools.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Presenter_76167_000000.png" height="100px" display="block">
+            Educators
+        </td>
+        <td>
+            <ul>
+                <li>Support more educational programs (both in and outside of formal higher ed, as well as boot camps) that teach co-design, critical thinking about technology, and user centered design, including in practice, not just theory. Support existing efforts in this space, create new ones, and push existing educational programs and institutions to adopt co-design perspective and practices (Judyta, Facilitator, Education Technology Collective). For example, see our list of educational initiatives, but note that just a handful teach community-led design: <a href="http://bit.ly/t4sj-programs">http://bit.ly/t4sj-programs</a>.</li>
+                <li>Create Tech Clinics, modeled on Legal Clinics. Public interest law, and legal services work, is client oriented and lawyers doing this work are constantly interacting with people who need to navigate larger unequal systems; it’s also part of their education. Tech can learn from this. People who are poor, are undocumented, are seeking housing, and/or have dealt with the criminal justice system, must be involved in the creation of apps and technology systems that are supposed to be for them and create tech teams, both staff and fellowships and internships, within existing legal services clinics (Heiner, Executive Director at a Legal Services Org).</li>
+                <li>Center community accountability in education programs. Lots of college programs have people “do community work” as a practicum, but without grounding or context. There are some models that try to do this better, e.g. Hampshire college’s “Holyoke bound” program, with a daylong training in the history of the city. See also MMP’s course for students in the spring term, about social justice, prior to a summer internship.</li>
+                <li>Develop strategies beyond technology deployment in schools. Deployment alone is not enough: How will it be used, what does the community need, what do community leaders, educators, and organizers have to say?</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Government_225589_000000.png" height="100px" display="block">
+            Government
+        </td>
+        <td>
+            <ul>
+                <li>Adopt co-design and agile development methods, conduct formal usability testing, and support community design boards.</li>
+                <li>Develop mechanisms to include community members at all stages of the design process (scoping, ideation, prototype, iterations, etc.) rather than only in usability testing.</li>
+                <li>Governments have responsibility to advance the public interest. Find ways to shift responsibility for maintenance of successful public interest tech projects onto governments. Nonprofits should not be responsible for long-term maintenance, development, and scaling of successful public interest tech projects.</li>
+                <li>18F and USDS are seen by many as successful models at the federal level. Possibly replicate these models for municipalities. Also consider creating/supporting a shop (or network of shops) like this to support nonprofits.</li>
+                <li>Vendors bidding for municipal contracts could be required to produce community design and accountability plans.</li>
+                <li> Revise hiring practices to account for the fact that many top practitioners are self-taught and don’t have formal technology-related degrees.</li>
+                <li>Consider models to allocate some resources in government design processes for meaningful community participation, so that the whole process doesn’t just happen “in-house,” with community input limited to UI testing of the MVP. For example, can lessons from successful municipal participatory budgeting programs be applied to create municipal participatory design programs?</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
 
 ### 2. From Silver Bullets to Useful Tools: Change the Narrative, Lead with Values, and Recognize Multiple Frames and Terms Across the Ecosystem.
 
@@ -79,12 +159,75 @@ or LGBTQI people we interviewed do not identify with the term “technologist,�
 
 #### AUDIENCE-SPECIFIC RECOMMENDATIONS
 
-|Tech Practitioner Orgs | Create avenues for more people to learn about alternative organizational models such as cooperatives, non-hierarchical organizations, and other forms of value-driven orgs.|
-|Other Orgs| Educate people to broaden thinking about who is part of this field. Expand the language that we use to make space for more diversity and inclusivity, and to get out of silos.|
-|Individual Practitioners|For people writing about this ecosystem, recognize and make clear that different actors and communities use different terms and framings to talk about their work, and findings might need to be tailored to different groups.|
-|Funders|Do not require or expect people to use one term or frame if the goal is to make the field as inclusive as possible.|
-|Educators|Frame technology work as a path to challenge power dynamics and address political issues, and not just as a field for people who love puzzles and money.|
-|Government|When seeking to develop technology programs, people in government should explore connecting to tech for social justice spaces, community technology practitioners, and other networks beyond the civic tech field, in order to reach a more diverse base.|
+<table>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_users_64764_000000.png" height="100px" display="block">
+            Tech Practitioner Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Create avenues for more people to learn about alternative organizational models such as cooperatives, non-hierarchical organizations, and other forms of value-driven orgs.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_group_737662_000000.png" height="100px" display="block">
+            Other Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Educate people to broaden thinking about who is part of this field. Expand the language that we use to make space for more diversity and inclusivity, and to get out of silos.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_individual_1284256_000000.png" height="100px" display="block">
+            Individual Practitioners
+        </td>
+        <td>
+            <ul>
+                <li>For people writing about this ecosystem, recognize and make clear that different actors and communities use different terms and framings to talk about their work, and findings might need to be tailored to different groups.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_funds_939405_000000.png" height="100px" display="block">
+            Funders
+        </td>
+        <td>
+            <ul>
+                <li>Do not require or expect people to use one term or frame if the goal is to make the field as inclusive as possible.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Presenter_76167_000000.png" height="100px" display="block">
+            Educators
+        </td>
+        <td>
+            <ul>
+                <li>Frame technology work as a path to challenge power dynamics and address political issues, and not just as a field for people who love puzzles and money.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Government_225589_000000.png" height="100px" display="block">
+            Government
+        </td>
+        <td>
+            <ul>
+                <li>When seeking to develop technology programs, people in government should explore connecting to tech for social justice spaces, community technology practitioners, and other networks beyond the civic tech field, in order to reach a more diverse base.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
 
 ### 3. #RealDiversityNumbers: Adopt proven strategies for diversity and inclusion.
 
@@ -104,7 +247,7 @@ _Racism, sexism, classism, ableism, transphobia, and other forms of oppression p
 - _Forefront values, mission, and goals._
 - _Organize diverse project teams._ In addition to being a goal in and of itself, diverse teams choose better ideas and problems to work on, and are more creative and innovative.
 - _Have privilege trainings and conversations within orgs._ Even tech spaces that call themselves progressive or “radical” often fail to have meaningful conversations about privilege. For example, these spaces rarely talk about their own ableism and classism. However, also note that some research shows that poorly implemented privilege trainings can backfire on women, PoC, and T/ GnC people. Provide resources for groups that are known to do this well, such as AORTA, to provide trainings for tech practitioner organizations, as well as in government, nonprofit, and private sector spaces.
-- _See also_ the recent Breaking the Mold report by Open Mic: [http://breakingthemold.openmic.org](http://breakingthemold.openmic.org)
+- _See also_ the recent Breaking the Mold report by Open Mic: <a href="http://breakingthemold.openmic.org">http://breakingthemold.openmic.org</a>.
 
 **Inclusive hiring, mentorship, retention, and advancement.** Intentionally invest in the hiring, mentorship, retention, and advancement of women, People of Color, and gender nonconforming folks in tech for social justice.
 - _Change hiring practices._ In job listings, orgs should focus more on skills than on degrees. Shift to more skills-based framings, rather than field and identity-based framings. For example, rather than saying you’re looking to hire “a technologist,” say that you’re looking to hire someone who works with technology. Since many people skilled and working in this space never got a formal education in it, shift from requiring computer science degrees to focusing on skills.
@@ -113,7 +256,7 @@ _Racism, sexism, classism, ableism, transphobia, and other forms of oppression p
 - _Create leadership trainings_ for women.
 - _Fund travel._
 - _Fund paid fellowships and internships_ (Models are Media Democracy Fund and PHDX internships).
-- _Practice sponsorship_ (see [http://larahogan.me/blog/what-sponsorship-looks-like](http://larahogan.me/blog/what-sponsorship-looks-like)).
+- _Practice sponsorship_ (see <a href="http://larahogan.me/blog/what-sponsorship-looks-like">http://larahogan.me/blog/what-sponsorship-looks-like</a>.
 - _Fund programmatic work_ rather than contractor funding for women and PoC.
 - Be cognizant of the financial constraints of rural folks, _provide travel funding to rural folks_ so that they can participate in conferences.
 - Support organizations to develop _institutional human resources capacity_; i.e. someone to have regular check-ins with about well-being, and/or someone who can develop organizational policies to support staff well-being and retention.
@@ -140,12 +283,92 @@ are already known to create good spaces for Women, femmes, Queer and Trans folks
 
 #### AUDIENCE SPECIFIC RECOMMENDATIONS
 
-| Tech Practitioner Orgs| <ul><li>Invest in inclusive hiring, mentorship, and advancement of marginalized people in this field and beyond.</li><li>Adopt evidence-based best practices to advance inclusion and diversity within organizations.</li></ul>|
-| Other Orgs | <ul><li>Invest in inclusive hiring, mentorship, and advancement of women, People of Color, and gender nonconforming folks in this field and beyond.</li><li>Adopt evidence-based best practices to advance inclusion and diversity within organizations.</li></ul>|
-| Individual Practitioners | <ul><li>Show up in solidarity with others in your own life and workplace. For example, white folks pressure organizational leadership to adopt best diversity and inclusion practices, cisgender people push to make workplaces more trans-inclusive, and so on.</li></ul>|
-| Funders |<ul><li>Key funders should gather and share demographic data about the people leading the organizations and projects they have funded in the space.</li><li>Specifically, the Knight Foundation, as the largest funder in the space, should gather and share year by year data about gender, race/ethnicity, and other demographic characteristics of its grantees.</li><li>Along with demographic data, funders should also publicly set targets and dates for their grantmaking to reach demographic parity with the geographic communities where they fund work.</li><li>Foundations: Be transparent around your own demographics, staff, and practices. People tend to fund people who are like them, so the funders should more closely examine how they are operating.</li><li>Access to funding is often based on existing social networks and personal relationships. This presents a huge challenge to growing the field outside the network of usual suspects, and beyond the “trusted”’ group of highly educated, middle class, white cisgender men and women.</li><li>Fund smaller and grassroots groups.</li><li>Fund outside of coastal cities (Nessa, Journalist and Founder of a Nonprofit).</li><li>Fund groups and initiatives led by WoC; specifically support Q/T/PoC in tech.</li><li>Track and publicly share demographics of grantees, and set targets and timelines for parity.</li><li>Change funding requirements and processes to favor non-traditional applicants doing great work, rather than just people with good grant writing skills and personal connections to funder networks.</li><li>Consider funding mentorship initiatives specifically. Several practitioners mentioned the need for a mentor-matching program across the ecosystem.</li></ul>|
-| Educators |<ul><li>For orgs that work with young people: expose them to people who look like them who are working in the tech for social justice field.</li><li>Universities can develop more programs that teach a mix of tech skills across multiple roles, along with critical thinking and participatory design. These programs can train graduates for careers in public, private, or nonprofit technology work, and can mix the skills that are needed for successful tech projects across research, development, implementation, community building, adoption, support, and so on (not just programming).</li><li>Develop fellowship programs that support people from existing organizations, and from marginalized communities, rather than just the one year parachute model.</li><li>People respond to educators who share some aspects of their experience (Peter, Digital Literacy Instructor).</li><li>Breakdown sexism and racism in STEM education.</li></ul>|
-| Government |<ul><li>Public sector (government) should gather and share demo- graphic data about employees. We found that people who are new to government say that it is one of the more diverse sectors they have worked in. If this is true, it should be highlighted. If it is not, government should set targets and dates to make it true.</li></ul>|
+
+<table>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_users_64764_000000.png" height="100px" display="block">
+            Tech Practitioner Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Invest in inclusive hiring, mentorship, and advancement of marginalized people in this field and beyond.</li>
+                <li>Adopt evidence-based best practices to advance inclusion and diversity within organizations.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_group_737662_000000.png" height="100px" display="block">
+            Other Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Invest in inclusive hiring, mentorship, and advancement of women, People of Color, and gender nonconforming folks in this field and beyond.</li>
+                <li>Adopt evidence-based best practices to advance inclusion and diversity within organizations.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_individual_1284256_000000.png" height="100px" display="block">
+            Individual Practitioners
+        </td>
+        <td>
+            <ul>
+                <li>Show up in solidarity with others in your own life and workplace. For example, white folks pressure organizational leadership to adopt best diversity and inclusion practices, cisgender people push to make workplaces more trans-inclusive, and so on.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_funds_939405_000000.png" height="100px" display="block">
+            Funders
+        </td>
+        <td>
+            <ul>
+                <li>Key funders should gather and share demographic data about the people leading the organizations and projects they have funded in the space.</li>
+                <li>Specifically, the Knight Foundation, as the largest funder in the space, should gather and share year by year data about gender, race/ethnicity, and other demographic characteristics of its grantees.</li>
+                <li>Along with demographic data, funders should also publicly set targets and dates for their grantmaking to reach demographic parity with the geographic communities where they fund work.</li>
+                <li>Foundations: Be transparent around your own demographics, staff, and practices. People tend to fund people who are like them, so the funders should more closely examine how they are operating.</li>
+                <li>Access to funding is often based on existing social networks and personal relationships. This presents a huge challenge to growing the field outside the network of usual suspects, and beyond the “trusted”’ group of highly educated, middle class, white cisgender men and women.</li>
+                <li>Fund smaller and grassroots groups.</li>
+                <li>Fund outside of coastal cities (Nessa, Journalist and Founder of a Nonprofit).</li>
+                <li>Fund groups and initiatives led by WoC; specifically support Q/T/PoC in tech.</li>
+                <li>Track and publicly share demographics of grantees, and set targets and timelines for parity.</li>
+                <li>Change funding requirements and processes to favor non-traditional applicants doing great work, rather than just people with good grant writing skills and personal connections to funder networks.</li>
+                <li>Consider funding mentorship initiatives specifically. Several practitioners mentioned the need for a mentor-matching program across the ecosystem.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Presenter_76167_000000.png" height="100px" display="block">
+            Educators
+        </td>
+        <td>
+            <ul>
+                <li>For orgs that work with young people: expose them to people who look like them who are working in the tech for social justice field.</li>
+                <li>Universities can develop more programs that teach a mix of tech skills across multiple roles, along with critical thinking and participatory design. These programs can train graduates for careers in public, private, or nonprofit technology work, and can mix the skills that are needed for successful tech projects across research, development, implementation, community building, adoption, support, and so on (not just programming).</li>
+                <li>Develop fellowship programs that support people from existing organizations, and from marginalized communities, rather than just the one year parachute model.</li>
+                <li>People respond to educators who share some aspects of their experience (Peter, Digital Literacy Instructor).</li>
+                <li>Breakdown sexism and racism in STEM education.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Government_225589_000000.png" height="100px" display="block">
+            Government
+        </td>
+        <td>
+            <ul>
+                <li>Public sector (government) should gather and share demo- graphic data about employees. We found that people who are new to government say that it is one of the more diverse sectors they have worked in. If this is true, it should be highlighted. If it is not, government should set targets and dates to make it true.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
 
 ### 4. Developers, Developers, Developers? Recognize Different Roles and Expertise in Tech Work, and Support Alternative Pathways to Participation
 
@@ -169,12 +392,81 @@ _Technology roles within organizations are diverse, and span a spectrum of skill
 
 ####  AUDIENCE-SPECIFIC RECOMMENDATIONS
 
-|Tech Practitioner Orgs| <ul><li>Document and showcase the diverse pathways of practitioners into this ecosystem.</li></ul>|
-|Other Orgs|<ul><li>Strive to make sure that technologists become part of your movement and community.</li><li>When creating jobs and staffing up, hire for roles other than software developer to make your tech work effective.</li></ul>|
-|Individual Practitioners|<ul><li>Become part of the community you work with.</li><li>Recognize that not every organization will be able to, or needs to, hire people with advanced tech skills in-house. Independent consultants, tech coops, and small or medium-sized tech organizations provide key support for the technology needs of many grassroots, movement building organizations. </li></ul>|
-|Funders| <ul><li>Recognize and support the diversity of roles that are needed for effective tech work across the ecosystem.</li><li>Fund and support paid fellowships and intern- ships, along with mentorships to support People of Color, women, gender nonconforming folks, and others that come into this field.</li></ul>|
-|Educators|<ul><li>Expand how we teach computer science and talk about technology careers. When people are first being exposed to ideas about what computer or tech careers involve, we should make sure that “tech for social justice’ is visible, rather than the predominant framing, which is that computer science is for people who ‘like puzzles and money.” This would be true in education both for youth and adults.</li><li>Expand what tech means: it’s not just developers, not just about making lots of money. Starting in elementary school: this is integral to all of our lives, and it is important for art, history, and politics.</li><li>Create more opportunities for tech learning that is not just about tool building or coding, but about use.</li><li>Create a program for practitioners in the field to visit schools and universities and talk about their career path and work.</li><li>Technology can be a tool to provide greater access to legal services for underserved populations. Additionally, a fellowship model can be used to provide paid opportunities for students of color in one field, like law, to gain interdisciplinary skills, like design thinking and agile software development (Ivar, Founder of a Tech-Legal Fellowship Program).</li></ul>|
-|Government|<ul><li>When creating jobs and staffing up, hire for roles other than software developer (e.g. graphic designer, researcher, participatory design facilitator, and other roles) to make your tech work effective.</li></ul>|
+<table>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_users_64764_000000.png" height="100px" display="block">
+            Tech Practitioner Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Document and showcase the diverse pathways of practitioners into this ecosystem.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_group_737662_000000.png" height="100px" display="block">
+            Other Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Strive to make sure that technologists become part of your movement and community.</li>
+                <li>When creating jobs and staffing up, hire for roles other than software developer to make your tech work effective.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_individual_1284256_000000.png" height="100px" display="block">
+            Individual Practitioners
+        </td>
+        <td>
+            <ul>
+                <li>Become part of the community you work with.</li>
+                <li>Recognize that not every organization will be able to, or needs to, hire people with advanced tech skills in-house. Independent consultants, tech coops, and small or medium-sized tech organizations provide key support for the technology needs of many grassroots, movement building organizations.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_funds_939405_000000.png" height="100px" display="block">
+            Funders
+        </td>
+        <td>
+            <ul>
+                <li>Recognize and support the diversity of roles that are needed for effective tech work across the ecosystem.</li>
+                <li>Fund and support paid fellowships and intern- ships, along with mentorships to support People of Color, women, gender nonconforming folks, and others that come into this field.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Presenter_76167_000000.png" height="100px" display="block">
+            Educators
+        </td>
+        <td>
+            <ul>
+                <li>Expand how we teach computer science and talk about technology careers. When people are first being exposed to ideas about what computer or tech careers involve, we should make sure that “tech for social justice’ is visible, rather than the predominant framing, which is that computer science is for people who ‘like puzzles and money.” This would be true in education both for youth and adults.</li>
+                <li>Expand what tech means: it’s not just developers, not just about making lots of money. Starting in elementary school: this is integral to all of our lives, and it is important for art, history, and politics.</li>
+                <li>Create more opportunities for tech learning that is not just about tool building or coding, but about use.</li>
+                <li>Create a program for practitioners in the field to visit schools and universities and talk about their career path and work.</li>
+                <li>Technology can be a tool to provide greater access to legal services for underserved populations. Additionally, a fellowship model can be used to provide paid opportunities for students of color in one field, like law, to gain interdisciplinary skills, like design thinking and agile software development (Ivar, Founder of a Tech-Legal Fellowship Program).</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Government_225589_000000.png" height="100px" display="block">
+            Government
+        </td>
+        <td>
+            <ul>
+                <li>When creating jobs and staffing up, hire for roles other than software developer (e.g. graphic designer, researcher, participatory design facilitator, and other roles) to make your tech work effective.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 ### 5. Coops, Collectives, and Networks, Oh My! Support Alternative Models Beyond Startups, Government Offices, and Incorporated Nonprofits.
 
@@ -193,13 +485,80 @@ as economic development offices) to support new business creation. Many intervie
 
 **Use government procurement to grow the ecosystem.** This requires focused initiatives that can help smaller organizations and companies, women and PoC-owned firms, coops, and others navigate the procurement process.
 
-**Study the tech coop sector.** The U.S. Federation of Worker Cooperatives is a rich resource for information about tech cooperatives, many of which play very important roles in supporting local movement, nonprofit, and advocacy organizations. They conduct an annual census of U.S. cooperatives, and hold data that could be used to develop a clear picture of what is needed to grow the tech coop sector. We also recommend that the University of Wisconsin Center for Cooperatives conduct a study that focuses specifically on the tech coop sector (see [https://mce.uwcc.wisc.edu](https://mce.uwcc.wisc.edu)).
+**Study the tech coop sector.** The U.S. Federation of Worker Cooperatives is a rich resource for information about tech cooperatives, many of which play very important roles in supporting local movement, nonprofit, and advocacy organizations. They conduct an annual census of U.S. cooperatives, and hold data that could be used to develop a clear picture of what is needed to grow the tech coop sector. We also recommend that the University of Wisconsin Center for Cooperatives conduct a study that focuses specifically on the tech coop sector (see <a href="https://mce.uwcc.wisc.edu">https://mce.uwcc.wisc.edu</a>).
 
 ### AUDIENCE-SPECIFIC RECOMMENDATIONS
 
-|Tech Practitioner Orgs|<ul><li>Figure out ways to build “passive income” to be sustained without relying on contracts and grants.</li><li>Consider coop conversion.</li></ul>|
-|Other Orgs|<ul><li>Some women, People of Color, gender nonconforming folks and others say they find tech cooperatives to be more inclusive spaces than most tech firms. Of course, there is room for improvement here as well. Other organizations should strive to foster as inclusive and diverse environments as tech cooperatives.</li><li>Consider coop conversion.</li></ul>|
-|Individual Practitioners|<ul><li>When starting new organizations, consider models beyond nonprofits, including cooperatives, B Corporations, collectives, and so on.</li></ul>|
-|Funders|<ul><li>Explore how to help non-501(c)3 organizations, such as B Corporations and worker cooperatives, to support themselves and living wage jobs for their employees while also doing tech work for social justice.</li><li>Explore how grassroots fundraising (in contrast to large foundations) can be utilized for tech work through nonprofits (such as Grassroots Grantmakers).</li><li>Provide rapid response funds for ad-hoc networks that provide crucial tech support in moments of crisis.</li></ul>|
-|Educators|<ul><li>Universities and colleges should support students to form tech cooperatives, B Corporations, and other triple bottom line firms in the ways they normally support VC-backed LLC startups.</li></ul>|
-|Government|<ul><li>Business development funds and programs should include support for coops. For example, see the City of Boston’s cooperative initiative.</li><li>ICT Infrastructure projects can have incredible power and leverage, and can tap significant sources of funds, especially when they draw together city governments, CBOs, policy folks, and technologists. Successful models from Detroit (DCTP), Philly (MMP), and NYC (Red Hook, Rise:NYC, public housing broadband, etc.) should be supported and widely replicated (Bartholomeus, Economic Development Director for a City Government and Robin, Worker at a Tech Collective).</li><li>Use government procurement to grow the field. This requires focused initiatives that can help smaller orgs and companies, women and PoC-owned firms, coops, and others navigate the procurement process. Learn from some other sectors (e.g., food) about how to do this well. Municipal offices of Economic Development can play a role in supporting local businesses to navigate procurement. (Tom, Developer at a Federal Government Office and Margareta, Founder and Co-Director of a Govtech Department). </li></ul>|
+<table>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_users_64764_000000.png" height="100px" display="block">
+            Tech Practitioner Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Figure out ways to build “passive income” to be sustained without relying on contracts and grants.<br> - Consider coop conversion.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_group_737662_000000.png" height="100px" display="block">
+            Other Orgs
+        </td>
+        <td>
+            <ul>
+                <li>Some women, People of Color, gender nonconforming folks and others say they find tech cooperatives to be more inclusive spaces than most tech firms. Of course, there is room for improvement here as well. Other organizations should strive to foster as inclusive and diverse environments as tech cooperatives.</li>
+                <li>Consider coop conversion.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_individual_1284256_000000.png" height="100px" display="block">
+            Individual Practitioners
+        </td>
+        <td>
+            <ul>
+                <li>When starting new organizations, consider models beyond nonprofits, including cooperatives, B Corporations, collectives, and so on.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_funds_939405_000000.png" height="100px" display="block">
+            Funders
+        </td>
+        <td>
+            <ul>
+                <li>Explore how to help non-501(c)3 organizations, such as B Corporations and worker cooperatives, to support themselves and living wage jobs for their employees while also doing tech work for social justice.</li>
+                <li>Explore how grassroots fundraising (in contrast to large foundations) can be utilized for tech work through nonprofits (such as Grassroots Grantmakers).</li>
+                <li>Provide rapid response funds for ad-hoc networks that provide crucial tech support in moments of crisis.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Presenter_76167_000000.png" height="100px" display="block">
+            Educators
+        </td>
+        <td>
+            <ul>
+                <li>Universities and colleges should support students to form tech cooperatives, B Corporations, and other triple bottom line firms in the ways they normally support VC-backed LLC startups.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/report/noun_Government_225589_000000.png" height="100px" display="block">
+            Government
+        </td>
+        <td>
+            <ul>
+                <li>Business development funds and programs should include support for coops. For example, see the City of Boston’s cooperative initiative.</li>
+                <li>ICT Infrastructure projects can have incredible power and leverage, and can tap significant sources of funds, especially when they draw together city governments, CBOs, policy folks, and technologists. Successful models from Detroit (DCTP), Philly (MMP), and NYC (Red Hook, Rise:NYC, public housing broadband, etc.) should be supported and widely replicated (Bartholomeus, Economic Development Director for a City Government and Robin, Worker at a Tech Collective).</li>
+                <li>Use government procurement to grow the field. This requires focused initiatives that can help smaller orgs and companies, women and PoC-owned firms, coops, and others navigate the procurement process. Learn from some other sectors (e.g., food) about how to do this well. Municipal offices of Economic Development can play a role in supporting local businesses to navigate procurement. (Tom, Developer at a Federal Government Office and Margareta, Founder and Co-Director of a Govtech Department).</li>
+            </ul>
+        </td>
+    </tr>
+</table>
