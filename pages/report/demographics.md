@@ -70,3 +70,8 @@ Geographically, participants are mostly based in Urban (68%) or Urban/Rural (23%
 Almost half of study participants earn $80,000 or more annually. However, we believe this figure to be skewed relative to most practitioners in the field, since most of our study participants’ job titles reflect senior-level positions, such as Executive Directors/ Founders/CEOs, Directors/Chiefs, and Managers.
 
 ![Participant Income](/assets/report/graphs-10_ay.jpg "Participant Income"){:display="block"}
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)
+- [Next: Practitioner Experiences](/report/practitioner-experiences/)
+- [Back: Ecosystem](/report/ecosystem/)

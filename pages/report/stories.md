@@ -127,3 +127,8 @@ it requires ongoing maintenance, response to threats and attacks, training, regu
 Unlike their nonprofit counterparts, those working within local, state, and federal governments often deal with government procurement bureaucracy. For instance, practitioners within government noted that smaller vendors are usually either not able to comply with government requirements or are not interested in _“jumping through all the hoops”_ to do business with the government.
 
 Referring to specific unmet tech skills, practitioners identified the need for more data journalists, data engineers, data visualization experts, app developers, system and infrastructure administrators, malware researchers, and practitioners with machine learning skills.
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)
+- [Next: Conclusions & Key Recommendations](/report/conclusions-recommendations/)
+- [Back: Visions & Values](/report/visions-values)

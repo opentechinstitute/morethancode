@@ -178,3 +178,8 @@ Artemis, a Technologist at an International Policy Technology Nonprofit, feels t
 Friedemann, an Advisor of Tech projects at a Government Office, highlights that the funding strategy of providing unrestricted operating funds, rather than metrics-driven return on investment and tightly restricted funds, while no longer popular among funders, was critical to motivating people to explore, self-actualize, and create innovation.
 
 More stories of successful strategies are available in the [Stories of Success section](/report/stories/).
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)
+- [Next: Demographics](/report/demographics/)
+- [Back: Introduction](/report/introduction/)

@@ -86,3 +86,6 @@ Stempeck, Matt. “Towards a Taxonomy of Civic Technology.” Microsoft on the I
 Tufekci, Zeynep. Twitter and tear gas: The power and fragility of networked protest. Yale University Press. 2017. Upturn. Civil Rights, Big Data, and Our Algorithmic Future. Sept. 2014.
 
 Wengraf, Tom. Qualitative research interviewing: Biographic narrative and semi-structured methods. Sage, 2001.
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)

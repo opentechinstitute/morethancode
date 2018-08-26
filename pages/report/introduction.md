@@ -55,3 +55,8 @@ Capture practitioner visions of what is needed to transform and build the field(
 
 **V. STORIES OF SUCCESS AND FAILURE**
 Document and distinguish models and approaches to carrying out technology for social justice (& etc.) work and projects on the ground. Identify what works, what doesn’t, and why.
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)
+- [Next: Ecosystem](/report/ecosystem/)
+- [Back: Executive Summary](/report/executive-summary)

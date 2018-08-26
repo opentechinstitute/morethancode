@@ -109,3 +109,8 @@ this field, often in brutal ways. Women’s experiences ranged from being catcal
 #### Racism remains pervasive
 
 Hiring, advancement, retention, salaries, funding practices, and educational opportunities, among others, are all areas where People of Color face discrimination in this field. People of color only get access to a fraction of the positions, promotions, and grant opportunities. One participant pointed out that People of Color are not _“allowed”_ to be mediocre in this field, and being exceptional also does not guarantee access, recognition, and equal pay. Most organizations do not gather or share demographic data about their employees, volunteers, leadership, boards, or grantees, further obscuring pervasive racism. Few organizations in the field have specific plans to address diversity and inclusion, and when they do have strategies, they fail to publicly disclose their plans.
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)
+- [Next: Visions & Values](/report/visions-values/)
+- [Back: Demographics](/report/demographics/)

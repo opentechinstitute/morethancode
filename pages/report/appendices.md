@@ -163,3 +163,7 @@ _Stage 2 Research Outputs_
 - Key Interview Takeaways: [http://bit.ly/t4sj-interviews-keytakeaways](http://bit.ly/t4sj-interviews-keytakeaways)
 - Powerful Quotes: [http://bit.ly/t4sj-powerfulquotes](http://bit.ly/t4sj-powerfulquotes)
 - [Report](/report/)
+
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)

@@ -288,3 +288,7 @@ In addition to this written report, our research team produced the following out
 - **Jobs Database:** A database of relevant jobs to help us understand how employers think about this work: [http://jobs.morethancode.cc](http://jobs.morethancode.cc).
 - **Terms List:** A spreadsheet of all terms mentioned by practitioners to describe the work they do. Includes tabs for the full list, a count of participant identification with terms, top-level categorization codes, and counts of organizations that use terms in IRS form 990: [http://bit.ly/t4sj-terms-shared](http://bit.ly/t4sj-terms-shared).
 - **Research Instruments:** Throughout the project, we made all research instruments publicly available, including our final semi-structured interview guide: https://t4sj.co/ uploads/resources/T4SJ-interview-guide-II.pdf and focus group guide: [https://morethancode.cc/assets/resources/T4SJ-Focus-Group-Guide.pdf](/assets/resources/T4SJ-Focus-Group-Guide.pdf).
+
+## NAVIGATE THE REPORT
+- [Table of Contents](/report/)
+- [Next: Introduction](/report/introduction/)
