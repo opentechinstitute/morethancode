@@ -11,6 +11,8 @@ tags: [Report, Appendices, MoreThanCode, practitioners, experiences, stories]
 
 **PAR Approach**
 
+![PAR Approach Doodle](/assets/report/MoreThanCode-Doodle-2.png){:height="150px" display="block"}
+
 #MoreThanCode is a Participatory Action Research (PAR) project. The first phase of the project consisted of interviews with practitioners and a literature review of work being done with technology to advance social justice and/or the public interest. Findings from this stage informed selection of a diverse set of organizational research partners for the second, expanded phase of research. In the second phase, all project partners worked together to develop the research questions, study design, data collection, data analysis, conclusions, and recommendations. This report summarizes outputs from both phases of the research process. Our study focused primarily on practitioners in the United States.
 
 **Partner Selection**
@@ -32,15 +34,21 @@ Based on these goals, our selection process was as follows: coordination team me
 
 During the first stage of the project, we reviewed relevant literature, including scholarly, practitioner, and funder reports focused on related fields. Topic areas included civic tech, open data, appropriate technology, community technology, predictive analytics and algorithmic decision-making, education and talent pipelines, diversity and inclusion initiatives, participatory design methods, values in design, technology’s role in social movements, public interest in the context of public interest law, and media justice. Our goals were to identify and summarize key texts, concepts, and arguments within and between these fields. Notes from this review are available here: [T4SJ Lit Review for Kickoff](t4sj-Convening-Booklet-final-no-contact-info.pdf).
 
+![Interviews Doodle](/assets/report/MoreThanCode-Doodle-3.png){:height="150px" display="block"}
+
 **Interviews**
 
 We interviewed 109 people, using a modified snowball sample:28 interviewees were nominated by project partners, coordination team members, and by project advisors. In addition, we asked each interviewee to recommend additional people in the field to interview. As we proceeded through our master list of potential interviewees, we regularly reviewed the demographics of interviewees to date, and continually modified outreach in order to maximize diversity along lines including gender, race/ ethnicity, geographic location, and sector (government, private, nonprofit). We focused on practitioners in the United States, although a few interviewees reside and work elsewhere. Demographics of our interviewees (and focus groups) are described in the Demographics section of the report. We used a semi-structured interview guide29 (available at [http://morethancode.cc/assets/resources/interview-guide-II.pdf](http://morethancode.cc/assets/resources/interview-guide-II.pdf) ) for all interviews, and recorded interview audio for transcription. Immediately after each interview, the interviewer(s) wrote up notes about the interview and key takeaways. Key takeaways from all interviews are available at [http://bit.ly/t4sj-interviews-keytakeaways](http://bit.ly/t4sj-interviews-keytakeaways). All interviewee names have been changed for privacy purposes.
+
+![Focus Group Doodle](/assets/report/MoreThanCode-Doodle-4.png){:height="100px" display="block"}
 
 **Focus Groups**
 
 We conducted 11 focus groups, ranging from as small as six to as large as 33 people per group, with a total of 79 focus group participants. The goal of the focus groups was to gather particular communities to discuss, in a structured way, people’s definitions of the field, pathways into the work, supports and barriers, and visions for the future. Focus groups were conducted in-person and, in some cases, via video chat. All focus groups used a semi-structured Focus Group Guide that mirrored interview questions (available at [http://morethancode.cc/assets/resources/T4SJ-Focus-Group-Guide.pdf](http://morethancode.cc/assets/resources/T4SJ-Focus-Group-Guide.pdf)).
 
 We recorded and transcribed audio of all focus groups and interviews, and replaced all participants’ names with pseudonyms for privacy purposes.
+
+![Questionnaire Doodle](/assets/report/MoreThanCode-Doodle-5.png){:height="150px" display="block"}
 
 **Demographic Questionnaire**
 
@@ -54,17 +62,20 @@ We provided all participants with a worksheet containing terms related to the fi
 **Secondary Data Collection and Analysis**
 
 We leveraged a variety of secondary data sources as part of our research process:
-- US IRS Form 990 data provided by the Nonprofit Open Data Collective; • Job Listings from Indeed.com and Idealist.org;
+- [US IRS Form 990 data](https://www.irs.gov/forms-pubs/about-form-990) provided by the [Nonprofit Open Data Collective](https://github.com/Nonprofit-Open-Data-Collective);
+- Job Listings from [Indeed.com](https://www.indeed.com/) and [Idealist.org](https://www.idealist.org/);
 - Existing reports on diversity in adjacent sectors;
 - Existing reports on the funding ecosystem.
 
-Additionally, we synthesized information from interviews and desk research to create resources such as the Organization List ([https://morethancode.cc/orglist/](https://morethancode.cc/orglist/)) and the Educational & Fellowship Programs List ([http://bit.ly/t4sj-programs](http://bit.ly/t4sj-programs)).
+Additionally, we synthesized information from interviews and desk research to create resources such as the [Organization List](https://morethancode.cc/orglist/) and the [Educational & Fellowship Programs List](http://bit.ly/t4sj-programs).
+
+![Research Doodle](/assets/report/MoreThanCode-Doodle-6.png){:height="150px" display="block"}
 
 For both the IRS Form 990 data and the job listings, we used the list of 252 terms provided by study participants to describe their work ([http://bit.ly/t4sj-terms](http://bit.ly/t4sj-terms)) to search and filter for relevant organizations and job listings.
 
-To enable our analysis, the IRS Form 990 data was imported into a PostGRES database to allow for fast querying across the over 450 million records in the database. The sequel queries used for this analysis are available on [GitHub](https://github.com/opentechinstitute/t4sj-queries). The Nonprofit Open Data Collective is also working towards providing access to the entire data set for further research. We have provided access to the subset of data we analyzed here.
+To enable our analysis, the IRS Form 990 data was imported into a PostGRES database to allow for fast querying across the over 450 million records in the database. The sequel queries used for this analysis are available on [GitHub](https://github.com/opentechinstitute/t4sj-queries). The Nonprofit Open Data Collective is also working towards providing access to the entire data set for further research. We have provided access to the subset of data we analyzed [here](https://public.tableau.com/profile/georgiab#!/vizhome/T4SJ-IRS990/SummaryStats?publish=yes).
 
-In order to access the job listings data, we built a query tool and scraper, which are available on GitHub. For Indeed.com, we registered for access to their API to explore the viability of creating a job website to refer job seekers to opportunities in the ecosystem. This allowed us to query the Indeed API for job postings using the participant-provided terms. Idealist does not have an API, but the website is backed by the search indexing tool Algolia, which made it possible to get structured search results. All of the data and metadata from the job postings were stored in a PostGRES database to enable analysis and aggregation. Finally, we used Joblint, a Natural Language Processing library, to test and score job descriptions for issues with sexism, racism, culture, and expectations. We caution that there are some false positives; for example, jobs focused in gender work, e.g. “Women’s Rights,” score higher on “sexism.” The job listings can currently be explored here: [http://jobs.morethancode.cc](http://jobs.morethancode.cc).
+In order to access the job listings data, we built a query tool and scraper, which are available on [GitHub](https://github.com/opentechinstitute). For [Indeed.com](http://www.indeed.com), we registered for access to their API to explore the viability of creating a job website to refer job seekers to opportunities in the ecosystem. This allowed us to query the Indeed API for job postings using the participant-provided terms. [Idealist](https://www.idealist.org) does not have an API, but the website is backed by the search indexing tool [Algolia](https://www.algolia.com/), which made it possible to get structured search results. All of the data and metadata from the job postings were stored in a PostGRES database to enable analysis and aggregation. Finally, we used [Joblint](https://joblint.org/), a Natural Language Processing library, to test and score job descriptions for issues with sexism, racism, culture, and expectations. We caution that there are some false positives; for example, jobs focused in gender work, e.g. “Women’s Rights,” score higher on “sexism.” The job listings can currently be explored here: [http://jobs.morethancode.cc](http://jobs.morethancode.cc).
 
 **Partner Convenings**
 
@@ -88,65 +99,67 @@ To protect research participant privacy and confidentiality, the coordinating or
 ### C. Additional Research Outputs
 
 **Data Galleries**
-We produced three Data Galleries, or printable slide decks, of key quotes, findings, and data visualizations for use at face-to-face workshops and project convenings, as well as for online circulation. Data Gallery I: http://bit.ly/pit-cfa-gallery; Data gallery II: http://bit.ly/t4sj-datagalleryII-annotated; Data gallery III: http://bit.ly/morethancode-gallery.
+We produced three Data Galleries, or printable slide decks, of key quotes, findings, and data visualizations for use at face-to-face workshops and project convenings, as well as for online circulation. 
+    - [Data Gallery I](http://bit.ly/pit-cfa-gallery)
+    - [Data gallery II](http://bit.ly/t4sj-datagalleryII-annotated)
+    - [Data gallery III](http://bit.ly/morethancode-gallery.)
 
 **Practitioner Profiles**
-We produced six practitioner profiles, in a journalistic style that describes each person’s work, their career path, and challenges and opportunities they faced along the way. These are available at http://morethancode.cc
+We produced six practitioner profiles, in a journalistic style that describes each person’s work, their career path, and challenges and opportunities they faced along the way. These are available at [http://morethancode.cc/tags/#Practitioner+Profile](http://morethancode.cc/tags/#Practitioner+Profile)
 
 **Key Interview Takeaways**
-We wrote short summaries of key takeaways from all interviews. These are available in this standalone doc: http://bit.ly/t4sj-interviews-keytakeaways.
+We wrote short summaries of key takeaways from all interviews. These are available in this standalone doc: [http://bit.ly/t4sj-interviews-keytakeaways](http://bit.ly/t4sj-interviews-keytakeaways).
 
 **Data Visualizations**
-A gallery of interactive data visualizations, including demographic data of project participants, IRS form 990 data of organizations in the field, relative term frequency in job listings from Indeed, and more can be found here: https://public.tableau.com/profile/t4sj#!/
+A gallery of interactive data visualizations, including demographic data of project participants, IRS form 990 data of organizations in the field, relative term frequency in job listings from Indeed, and more can be found here: [https://public.tableau.com/profile/t4sj#!/](https://public.tableau.com/profile/t4sj#!/)
 
 **Powerful Quotes**
-After importing anonymized interview transcripts to Dedoose, we coded all transcripts according to our codebook. Coders marked particularly powerful quotes in each category. These were later exported from Dedoose, cleaned up and used as slides in the data gallery, and/or added to this standalone T4SJ Quotes document: http://bit.ly/t4sj-powerfulquotes.
+After importing anonymized interview transcripts to Dedoose, we coded all transcripts according to our codebook. Coders marked particularly powerful quotes in each category. These were later exported from Dedoose, cleaned up and used as slides in the data gallery, and/or added to this standalone T4SJ Quotes document: [http://bit.ly/t4sj-powerfulquotes](http://bit.ly/t4sj-powerfulquotes).
 
 **Organizational Database**
-We developed a database of information about more than 700 organizations and projects, available both as a spreadsheet (http://bit.ly/t4sj-orglist) and via a searchable web interface at https://morethancode.cc/orglist/. We initially seeded this with the organizational list from the Civic Tech Field Guide (available at http://bit.ly/organizecivictech), then added new organizations that came up in project interviews, focus groups, and workshops. The database is searchable by type of organization, sorted into the top level categories that emerged from our research process, as well as by variables such as “Majority PoC” and/or “Queer.”
+We developed a database of information about more than 700 organizations and projects, available both as a [spreadsheet](http://bit.ly/t4sj-orglist) and via a [searchable web interface](https://morethancode.cc/orglist/). We initially seeded this with the organizational list from the Civic Tech Field Guide (available at [http://bit.ly/organizecivictech](http://bit.ly/organizecivictech)), then added new organizations that came up in project interviews, focus groups, and workshops. The database is searchable by type of organization, sorted into the top level categories that emerged from our research process, as well as by variables such as “Majority PoC” and/or “Queer.”
 
 **Nonprofit Database**
-In the second stage of research, we decided to build a more comprehensive database of relevant organizations by using U.S. IRS Form 990 data provided by the Nonprofit Open Data Collective. We searched through over 450 million records in that database for relevant organizations, by using a list we compiled of 252 different terms that study participants use to describe their work (the terms list can be found here: http://bit.ly/t4sj-terms). The search process returned 91,058 unique organizations (foundations and nonprofits), who use one or more of our search terms somewhere in their 990 Forms, e.g. in mission statements, program descriptions, or grant descriptions. However, some of the terms provided by practitioners are quite broad, and apply
+In the second stage of research, we decided to build a more comprehensive database of relevant organizations by using U.S. IRS Form 990 data provided by the Nonprofit Open Data Collective. We searched through over 450 million records in that database for relevant organizations, by using a list we compiled of 252 different terms that study participants use to describe their work (the terms list can be found here: [http://bit.ly/t4sj-terms](http://bit.ly/t4sj-terms)). The search process returned 91,058 unique organizations (foundations and nonprofits), who use one or more of our search terms somewhere in their 990 Forms, e.g. in mission statements, program descriptions, or grant descriptions. However, some of the terms provided by practitioners are quite broad, and apply
 to many organizations that may or may not specifically engage in technology work (for example, “criminal justice”). We classified these broad terms as “Other.” When we exclude organizations that we classified as “Other,” we are left with 39,000 nonprofit organizations who included one or more of our search terms in their tax forms. We encourage others to further explore and analyze the data here.
 
 **Educational Programs Spreadsheet**
 There are growing numbers of university departments, centers, labs, and courses
-of study dedicated to the confluence of technology and society. We assembled this publicly editable spreadsheet of educational programs, fellowships, informal learning environments, bootcamps, meetups, and online education resources: http://bit.ly/t4sj-programs.
+of study dedicated to the confluence of technology and society. We assembled this publicly editable spreadsheet of educational programs, fellowships, informal learning environments, bootcamps, meetups, and online education resources: [http://bit.ly/t4sj-programs](http://bit.ly/t4sj-programs).
 
 **Jobs Database**
-Job listing provides an important lense on the way that employers think about and describe this work. We created the following jobs database in part as a research tool (to help us understand how employers talk about the field) and also as demo design for a job board that might be useful to help more people enter and advance within the field: https://jobs.morethancode.cc.
+Job listing provides an important lense on the way that employers think about and describe this work. We created the following jobs database in part as a research tool (to help us understand how employers talk about the field) and also as demo design for a job board that might be useful to help more people enter and advance within the field: [https://jobs.morethancode.cc](https://jobs.morethancode.cc).
 
 **Terms List**
-A spreadsheet of all terms mentioned by practitioners to describe the work they do. Includes tabs for full list, count of participant identification with terms, top-level categorization codes, and counts of orgs that use terms in IRS form 990: http://bit.ly/t4sj-terms.
+A spreadsheet of all terms mentioned by practitioners to describe the work they do. Includes tabs for full list, count of participant identification with terms, top-level categorization codes, and counts of orgs that use terms in IRS form 990: [http://bit.ly/t4sj-terms](http://bit.ly/t4sj-terms).
 
 **Research Instruments**
-Throughout the project, we made all research instruments publicly available, including our final semi-structured interview guide (http://t4sj.co/2017/08/23/interview-guide.html) and focus group guide (http://t4sj.co/2017/08/24/focus-group-facilitation-guide.html).
+Throughout the project, we made all research instruments publicly available, including our [final semi-structured interview guide](http://morethancode.cc/2017/08/23/interview-guide.html) and [focus group guide](http://morethancode.cc/2017/08/24/focus-group-facilitation-guide.html).
 
 
 **List of Additional Research Outputs**
 
 _Stage 1 Research Outputs_
-- Taxonomy of types of public interest tech work people are currently doing and findings from the first nine interviews
-- Annotated bibliography
-- Notes from the Code for America Summit, and the New America Growing the
-Public Technology Ecosystem event
+- [Taxonomy of types of public interest tech work](https://docs.google.com/document/d/1Gsp-vpzktyE4xZA0H9Wq_CDhdRBDXxZV1-FrMqnQyGA/edit) people are currently doing and findings from the first nine interviews
+- [Annotated bibliography](https://docs.google.com/document/d/1VbfG8iEILxiGlpKrSmEJbGJqFYd6XeItVbtAEJd5Y00/edit)
+- Notes from the [Code for America Summit](https://docs.google.com/document/d/1NhYHEZyNHZxqegsrpz3f8-4jEa_lnhlI8_MKqcXqg-I/edit), and the [New America Growing the Public Technology Ecosystem](https://docs.google.com/document/d/1OVVCALuq4EIys43eKp-PvciFKhM6rbwo4SZHhHhceiQ/edit) event
 - 23 interview transcripts
-- Data gallery I, from the first round interviews: http://bit.ly/pit-cfa-gallery
-- Semi-structured interview guide, round 1
-- Major Themes from first 9 Interviews doc
-- List of projects, organizations, and companies doing public interest technology work (note: this spreadsheet is being fed directly into the website)
+    - Data gallery I, from the first round interviews: [http://bit.ly/pit-cfa-gallery](http://bit.ly/pit-cfa-gallery)
+    - [Semi-structured interview guide, round 1](https://docs.google.com/document/d/1Y_AT8BWtXOwvBPpdtbt8r4qJB0aa30oQkLmUSX6NC_E/edit)
+    - [Major Themes from first 9 Interviews doc](https://docs.google.com/document/d/1J95Je_U4CLy5y1QPs1G-PSWU2fcM1OyE3dFZzrZAJlE/edit#heading=h.paca6i32rygn)
+- [List of projects, organizations, and companies doing public interest technology work](https://docs.google.com/spreadsheets/d/1jwM-cYI1Ep9ZjNxGDjJXjqNkYA-f1ViyAH-Bv1tLvV4/edit?usp=sharing) (note: this spreadsheet is being fed directly into the [website](/orglist/))
 
 _Stage 2 Research Outputs_
 - 109 interviews and transcripts
 - 11 focus groups, a total of 79 focus group participants, notes and transcripts.
-- 6 Practitioner Profiles: http://t4sj.co/blog.html
-- Revised Interview Guide: http://t4sj.co/2017/08/23/interview-guide.html
-- Revised Focus Group Guide: http://t4sj.co/2017/08/24/focus-group-facilitation- guide.html
-- Job board: https://jobs.morethancode.cc/
-- IRS form 990 data browser: https://public.tableau.com/profile/t4sj#!/vizhome/
-T4SJIRS990/SummaryTableCountsofOrganizationsbyTypeperCategory
-- Secondary Data Visualizations: https://public.tableau.com/profile/t4sj#!/ • Educational Programs Spreadsheet: http://bit.ly/t4sj-programs
-- Data gallery II: http://bit.ly/t4sj-datagalleryII-annotated
-- Key Interview Takeaways: http://bit.ly/t4sj-interviews-keytakeaways
-- Powerful Quotes: http://bit.ly/t4sj-powerfulquotes
-- Report
+- 6 Practitioner Profiles: [http://morethancode.cc/tags/#Practitioner+Profile](http://morethancode.cc/tags/#Practitioner+Profile)
+- Revised Interview Guide: [http://morethancode.cc/2017/08/23/interview-guide.html](http://morethancode.cc/2017/08/23/interview-guide.html)
+- Revised Focus Group Guide: [http://morethancode.cc/2017/08/24/focus-group-facilitation-guide.html](http://morethancode.cc/2017/08/24/focus-group-facilitation-guide.html)
+- Job board: [https://jobs.morethancode.cc/](https://jobs.morethancode.cc/)
+- IRS form 990 data browser: [https://public.tableau.com/profile/t4sj#!/vizhome/T4SJIRS990/SummaryTableCountsofOrganizationsbyTypeperCategory](https://public.tableau.com/profile/t4sj#!/vizhome/T4SJIRS990/SummaryTableCountsofOrganizationsbyTypeperCategory)
+- Secondary Data Visualizations: [https://public.tableau.com/profile/t4sj#!/](https://public.tableau.com/profile/t4sj#!/)
+- Educational Programs Spreadsheet: [http://bit.ly/t4sj-programs](http://bit.ly/t4sj-programs)
+- Data gallery II: [http://bit.ly/t4sj-datagalleryII-annotated](http://bit.ly/t4sj-datagalleryII-annotated)
+- Key Interview Takeaways: [http://bit.ly/t4sj-interviews-keytakeaways](http://bit.ly/t4sj-interviews-keytakeaways)
+- Powerful Quotes: [http://bit.ly/t4sj-powerfulquotes](http://bit.ly/t4sj-powerfulquotes)
+- [Report](/report/)
