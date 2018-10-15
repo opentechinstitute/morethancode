@@ -173,7 +173,7 @@ Vulpine Blue helps clients hold on to their most valuable asset—the workers. B
 
 This research and report was made possible by the contributions of many individuals and organizations.
 
-We thank all of the research partners for sharing their expertise, and for the dedication and commitment that made this project possible: Jack Aponte, Willow Brugh, Georgia Bullen, Helyx Chase, Sasha Costanza-Chock, Jayden Donahue, Kim Garcia, Berhan Taye Gemeda, Brooke Hunter, Bex Hurwitz, Joanne Johnson, Chhaya Kapadia, Jess Kutch, Puck Lo, Alfredo Lopez, Jamie McClelland, Nat Meysenberg, Michelle Miller, Zara Rahman, Caroline Rivas, Chris Schweidler, Maya Wagoner, Alison Yost, and Harlan Yu.
+We thank all of the research partners for sharing their expertise, and for the dedication and commitment that made this project possible: Jack Aponte, Willow Brugh, Georgia Bullen, Helyx Chase, Sasha Costanza-Chock, Jayden Donahue, Kim Garcia, Berhan Taye Gemeda, Brooke Hunter, Bex Hurwitz, Joanne Johnson, Chhaya Kapadia, Jess Kutch, Puck Lo, Alfredo Lopez, Jamie McClelland, Nat Meysenburg, Michelle Miller, Zara Rahman, Caroline Rivas, Chris Schweidler, Maya Wagoner, Alison Yost, and Harlan Yu.
 
 This report was written by Sasha Costanza-Chock, Maya Wagoner, Berhan Taye, Caroline Rivas, Chris Schweidler, Georgia Bullen, and the Tech for Social Justice Project.
 
