@@ -90,7 +90,7 @@ Research Action Design (RAD) uses community-led research, collaborative design o
 
 **[Open Technology Institute](https://newamerica.org/oti)**
 
-_Georgia Bullen, Maya Wagoner, Nat Meysenberg, Brooke Hunter, Alison Yost, Joanne Johnson, Chhaya Kapadia_
+_Georgia Bullen, Maya Wagoner, Nat Meysenburg, Brooke Hunter, Alison Yost, Joanne Johnson, Chhaya Kapadia_
 
 The Open Technology Institute (OTI) works at the intersection of technology and
 policy to ensure that every community has equitable access to digital technology and its benefits. We promote universal access to communications technologies that are both open and secure, using a multidisciplinary approach that brings together advocates, researchers, organizers, and innovators.
