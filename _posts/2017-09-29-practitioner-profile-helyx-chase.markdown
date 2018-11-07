@@ -18,7 +18,7 @@ Helyx paused. “I don’t like coding. But I understood it enough that I was ab
 
 What Helyx really loved was film. At the age of nine they were drawn to their parents’ video camera. It was old enough that it only worked when plugged into a wall outlet. By eighth grade, Helyx was able to buy a new camera. Inspired by Michael Moore at the time, they filmed “everything.”
 
-![helyx-2.jpg](/uploads/helyx-2.jpg)
+![helyx-2.jpg](/assets/img/photos/helyx-2.jpg)
 
 “My dad showed me ‘Bowling for Columbine,’” Helyx recalled. “That was the first time I saw a documentary and was like: ‘Oh this can be like funny and interesting.’ Up until then, documentaries were boring, so this changed the framing about what a documentary can be and how interesting that kind of story could be.”
 
