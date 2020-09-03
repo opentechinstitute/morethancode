@@ -73,5 +73,5 @@ Almost half of study participants earn $80,000 or more annually. However, we bel
 
 ## NAVIGATE THE REPORT
 - [Table of Contents](/report/)
-- [Next: Practitioner Experiences](/report/practitioner-experiences/)
+- [Next: Practitioner Experiences](/report/practitioners/)
 - [Back: Ecosystem](/report/ecosystem/)
